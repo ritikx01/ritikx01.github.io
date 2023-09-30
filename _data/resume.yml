@@ -1,0 +1,171 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Ritik Singh"
+  label: "Programmer"
+  picture: "/assets/img/img.jpeg"
+  email: "hello@ritik.dev"
+  phone: "+91 8127709954"
+  website: "https://ritik.dev"
+  summary: >
+    Hardworking and passionate College Student seeking employment
+    with strong organizational skills eager to secure an entry-level
+    software developer position. Ready to help a team achieve company
+    goals.
+  location:
+    # address: "2712 Broadway St"
+    # postalCode: "CA 94115"
+    city: "Allahabad"
+    countryCode: "IN"
+    region: "Uttar Pradesh"
+  profiles:
+    - network: "Twitter"
+      username: "Wh15k3yTF"
+      url: "https://twitter.com/Wh15k3yTF"
+    - network: "LinkedIn"
+      username: "ritikx01"
+      url: "https://www.linkedin.com/in/ritikx01/"
+    - network: "Leetcode"
+      username: "ritikx01"
+      url: "https://leetcode.com/ritikx01/"
+    - network: "TryHackme"
+      username: "ritik"
+      url: "https://tryhackme.com/p/ritik/"
+certificates:
+  - name: "Ethical Hacking"
+    platform: "Internshala"
+  - name: "Google IT Automation with Python"
+    platform: "Coursera"
+  - name: "Cloud Computing with AWS"
+    platform: "Techgyaan-Abhyuday IIT Bombay"
+
+work:
+  - company: "Fleek Technologies"
+    position: "Cybersecurity Intern"
+    website: "https://www.getfleek.app/"
+    startDate: "2021-12-01"
+    endDate: "2022-02-28"
+    # summary: >
+    #   The world is quickly transitioning to a subscription based lifestyle, with subscriptions for 
+    #   everything you can think of. From entertainment to fashion, and food to dating, all our favourite products 
+    #   and services are now offering subscriptions for a more personalised experience.
+    highlights:
+      - "Improved application security by remodeling business logic, 4 out of 5 revisions made it to production."
+      - "Analyzed information and provided solutions to problems."
+  - company: "GreyOrange"
+    position: "Graduate Engineer Trainee (L2 Support Engineer)"
+    website: "https://www.getfleek.app/"
+    startDate: "2023-02-14"
+    endDate: "2022-04-30"
+    # summary: >
+    #   Providing the world's most advanced robotic automation platform, allowing you to operate at maximum efficiency.
+    # highlights:
+    #   - "Improved application security by remodeling business logic, 4 out of 5 revisions made it to production."
+    #   - "Analyzed information and provided solutions to problems."
+# volunteer:
+#   - organization: "CoderDojo"
+#     position: "Teacher"
+#     website: "https://coderdojo.com/"
+#     startDate: "2012-01-01"
+#     endDate: "2013-01-01"
+#     summary: "Global movement of free coding clubs for young people."
+#     highlights:
+#       - "Awarded 'Teacher of the Month'"
+education:
+  - institution: "United College of Engineering and Research"
+    area: "Computer Science"
+    studyType: "Bachelor"
+    startDate: "2019-06-01"
+    endDate: "2023-01-01"
+    gpa: "6.5"
+    # courses:
+    #   - "DB1101 - Basic SQL"
+    #   - "CS2011 - Java Introduction"
+  - institution: "Kendriya Vidyalaya Bamrauli"
+    area: "Science"
+    studyType: "Sr Srcondary"
+    startDate: "2018-04-01"
+    endDate: "2019-03-31"
+    gpa: "7.7"
+# awards:
+#   - title: "Digital Compression Pioneer Award"
+#     date: "2014-11-01"
+#     awarder: "Techcrunch"
+#     summary: "There is no spoon."
+projects:
+  - title: "MYRA (My reconassiance automation)"
+    # startDate: "2018-08-01"
+    # endDate: "2019-10-31"
+    summary: "An automation tool written in Bash for security testing"
+    url: "https://github.com/ritikx01/myra"
+    highlights:
+      - "Written in BASH"
+      - "Combine and automate various tools"
+  - title: "Portrait NFT"
+    # startDate: "2019-10-01"
+    # endDate: "2019-10-31"
+    summary: "NFT market place"
+    url: "https://github.com/Portrait-NFT/nft-marketplace"
+    highlights:
+      - "A place to mint and transact Non-Fungible Tokens."
+      - "Written in Solidity and React js."
+  - title: "Track Server health"
+    # startDate: "2019-10-01"
+    # endDate: "2019-10-31"
+    summary: "NFT market place"
+    url: "https://github.com/Portrait-NFT/nft-marketplace"
+    highlights:
+      - "Send server health to discord using system utilities.."
+      - "Written in Python."
+# publications:
+#   - name: "Video compression for 3d media"
+#     publisher: "Hooli"
+#     releaseDate: "2014-10-01"
+#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Data Structures and Algorithms"
+    level: "3/3"
+  - name: "Backend Development"
+    level: "2/3"
+    keywords:
+      - "Python"
+      - "Django"
+      - "SQL"
+  - name: "Unix/Linux"
+    level: "3/3"
+    keywords:
+      - "Bash"
+      - "Commands"
+      - "File System"
+  - name: "Ethical Hacking"
+    level: "3/3"
+    keywords:
+    - "Proxy"
+    - "Business Logic"
+    - "APK testing"
+    - "Code review"
+  - name: "Miscellaneous"
+    level: "3/3"
+    keywords:
+    - "Docker"
+    - "Git"
+    - "Web servers"
+  - name: "Learning and Debugging"
+    level : "3/3"
+languages:
+  - language: "English"
+    fluency: "4/5"
+  - language: "Hindi"
+    fluency: "5/5"
+# interests:
+#   - name: "Wildlife"
+#     keywords:
+#       - "Ferrets"
+#       - "Unicorns"
+# references:
+#   - name: "Erlich Bachman"
+#     reference: >
+#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+#       Company proved that he will be a valuable addition to any company.

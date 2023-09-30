@@ -1,0 +1,60 @@
+
+
+
+{
+  "pages": [
+    {
+      
+      
+      
+      "content": "\n",
+      "url": "/404.html"
+    },{
+      
+      "title": "About",
+      
+      "content": "Hello, World!\n\nHi, I’m DaeIn Lee, a.k.a. Lazy Ren.\nI’m currently working at SAP Labs Korea, and previsouly was CSE student of Hanyang University.\nI like to solve brain teasing problems in field of CSE (probably the reason I liked multi-core programming / OS courses).\nAnd I’m also a heavy gamer!\nPleaseh check my resume if you wish to know more about me.\n\n\n\n\n\n\n\nWork Hard to be Lazy\n\nMy motto to live by.\n\n\n  “Working hard to be lazy basically means investing the extra effort (working hard) at first so that it will pay off in the long run (be lazy).”\n\n\nRe-evaluate your work processes\n\nThe lazy man will try to accomplish 2 hours worth of work in 1 hour’s time but sometimes at the expense of the work’s quality.\nThink of it as efficiency = quality/time taken (referencing speed = distance/over).\nIf the time taken is reduced, either the job’s quality has to be lowered or the efficiency must be increased. Efficiency really relates to the work process.\nSo in order to keep the quality the same and reduce the time taken, the work process must be changed.\n\nDon’t repeat yourself\n\nAfter evaluating what you do, you may have some ideas of what you want to improve or modify.\nBreak it down to its core.\n\nTry a new process\n\nBe open to completely changing the way you work.\nYou can’t expect to become more productive unless you pay a price at first.\n\nRefine yourself\n\nBy refining yourself I mean going through this work hard to be lazy process in iterations.\nTry a new process, if that doesn’t help as much as you hoped, try another process.\nThe worst thing that could happen is that you don’t find any improvement in your work process and go back to your original process and just work hard.\nDid you lose anything?\n\noriginal post\n\n\n\nBlog created by DaeIn Lee on July 19. 2018 in Vancouver,\nbased on the jekyll theme Hydejack.\n\n\n\n\n\n\n",
+      "url": "/about/"
+    },{
+      
+      "title": "Blog",
+      "description": "The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll.\n",
+      "content": "\n",
+      "url": "/blog/"
+    },{
+      
+      "title": "👋",
+      
+      "content": "Hi, I’m Dan. I’m a Windows SRE @ Google.\n\nThis website aims to document interesting tech problems I’ve\nsolved, and share those solutions with the world in the hopes that it will make\nyour life easier.\n\nTsekNet is a play on words: my last name (Tsekhanskiy) + Microsoft’s TechNet.\n\nLatest Posts\n\n\n\nSee Posts for more\n\n",
+      "url": "/"
+    },{
+      
+      
+      
+      "content": "\n",
+      "url": "/offline.html"
+    },{
+      
+      "title": "Posts",
+      "description": "This is the list layout for showing blog posts, which shows just the title and groups them by year of publication. Check out the blog layout for comparison.\n",
+      "content": "\n",
+      "url": "/posts/"
+    },{
+      
+      "title": "Projects",
+      "description": "How people are using Hydejack in the real world.  This page is built using the projects layout* that you can use yourself to build a portfolio.\n",
+      "content": "\n",
+      "url": "/projects/"
+    },{
+      
+      "title": "Résumé*",
+      "description": "This is the description of your resume page, as it will be seen by search engines. You’ll probably want to modify it in resume.md, and maybe set hide_description to true in the front matter.\n",
+      "content": "\n",
+      "url": "/resume/"
+    }
+  ], 
+  "documents": [
+    
+  ]
+}
+
